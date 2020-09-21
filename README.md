@@ -23,3 +23,4 @@
   GitHub:
   https://github.com/durganp1/note-taker
   
+<img width="1536" alt="Screen Shot 2020-09-20 at 10 53 23 PM" src="https://user-images.githubusercontent.com/65720461/93729834-230ce280-fb94-11ea-9fb9-4b4b1dd39630.png">
