@@ -1,15 +1,24 @@
-
 {
-    "notes": [
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text",
-         "id": "1"
+      "title": "Test Title",
+      "text": "Test text",
+      "id": "1"
     },
     {
-        "title": "This is the first note",
-        "text": "first note",
-        "id": "2"
+      "title": "This is the first note",
+      "text": "first note",
+      "id": "2"
+    },
+    {
+      "title": "This is the second note",
+      "text": "second note",
+      "id": "f99a5ec28kfbvqysl"
+    },
+    {
+      "title": "This is a third note",
+      "text": "third note",
+      "id": "f99a5ec28kfbvrpio"
     }
-    ]
+  ]
 }
